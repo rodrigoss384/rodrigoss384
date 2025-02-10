@@ -17,9 +17,7 @@
 
 ## **My Stack**
 
-<img src="./assets/Design sem nome.png" alt="MyStack" style="width: 750px; height: 140px; object-fit: cover;">
-
-<br></br>
+<img src="./assets/Design sem nome.png" alt="MyStack">
 
 
 📫 [Entre em contato comigo.](https://www.linkedin.com/in/rodrigo-souza384/)

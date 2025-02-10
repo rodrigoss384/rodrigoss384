@@ -16,8 +16,18 @@
 - <img src="./assets/Man Raising Hand Medium-Dark Skin Tone.png" alt="About" width="30"> I always try to be a person who interacts very well with everyone, always being a respectful and happy person and very dedicated and focused on my goals.
 
 ## **My Stack**
+
 <img src="./assets/Design sem nome.png" alt="MyStack" style="width: 750px; height: 95px; object-fit: cover;">
+
 <br></br>
+
+
+📫 [Entre em contato comigo.](https://www.linkedin.com/in/rodrigo-souza384/)
+
+------
+
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigoss384&show_icons=true&theme=radical&v=1" alt="GitHub Stats">
+
 
 <!--
 **rodrigoss384/rodrigoss384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

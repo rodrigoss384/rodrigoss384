@@ -24,7 +24,8 @@
 
 ------
 
-<img src="https://github-readme-stats.vercel.app/api?username=rodrigoss384&show_icons=true&theme=radical&v=1" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigoss384&show_icons=true&theme=radical&v=1" alt="GitHub Stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoss384&layout=compact" alt="Languages">
 
 
 <!--

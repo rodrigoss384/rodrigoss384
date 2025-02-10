@@ -17,7 +17,7 @@
 
 ## **My Stack**
 
-<img src="./assets/Design sem nome.png" alt="MyStack" style="width: 750px; height: 95px; object-fit: cover;">
+<img src="./assets/Design sem nome.png" alt="MyStack" style="width: 750px; height: 140px; object-fit: cover;">
 
 <br></br>
 

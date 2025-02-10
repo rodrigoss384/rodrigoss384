@@ -17,7 +17,7 @@
 
 ## **My Stack**
 
-<img src="./assets/Design sem nome.png" alt="MyStack">
+<img src="./assets/Documento de Rodrigo Souza.png" alt="MyStack">
 
 
 📫 [Entre em contato comigo.](https://www.linkedin.com/in/rodrigo-souza384/)

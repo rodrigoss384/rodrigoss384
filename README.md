@@ -10,7 +10,7 @@
 #### **About Me**
 
 - <img src="./assets/Call Me Hand Medium-Dark Skin Tone.png" alt="Me" width="30">   Hello! My name is Rodrigo Souza and I am a Cloud Student and Graduate in Systems Analysis and Development.
-- <img src="./assets/Brain.png" alt="Brain" width="30"> My current goal is become a Cloud Solutions Architect.
+- <img src="./assets/Brain.png" alt="Brain" width="30"> My current goal is become a DevOps Engineer.
 - <img src="./assets/Man Technologist Dark Skin Tone.png" alt="Programing" width="30"> My main stack is Docker, Kubernetes, Linux and AWS.
 - <img src="./assets/Man Raising Hand Medium-Dark Skin Tone.png" alt="About" width="30"> I always try to be a person who interacts very well with everyone, always being a respectful and happy person and very dedicated and focused on my goals.
 

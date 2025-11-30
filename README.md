@@ -22,17 +22,10 @@
 📫 [Entre em contato comigo.](https://www.linkedin.com/in/rodrigo-souza384/)
 
 ------
-<div align='center'>
-
-<div align="center">  
-
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rodrigoss384&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
- <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoss384&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoss384&layout=compact&langs_count=8&theme=dracula"/>
 </div>
-</div>
-
+  
 ------
 <!--
 **rodrigoss384/rodrigoss384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

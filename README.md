@@ -23,7 +23,7 @@
 
 ------
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=rodrigoss384&layout=compact&langs_count=8&theme=dracula&exclude_repo=dio-lab-open-source"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoss384&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff&exclude_repo=dio-lab-open-source"/>
 </div>
   
 ------

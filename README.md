@@ -23,7 +23,7 @@
 
 ------
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoss384&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff&exclude_repo=dio-lab-open-source"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoss384&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff&exclude_repo=dio-lab-open-source,chatbot,reborn-ui-kit,automacao_n8n,app-python,k8s-project"/>
 </div>
   
 ------
